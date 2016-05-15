@@ -8,9 +8,13 @@ Using [npm](http://npmjs.com):
 npm install
 ```
 
-Then [webpack](https://webpack.github.io/)
+Then [webpack](https://webpack.github.io/) to create bundle.js:
 ```sh
 webpack
 ```
 
-Launch index.html
+Run application in Chrome
+```sh
+
+```
+Launch ./src/client/index.html in a browser to see the code in action
