@@ -2,10 +2,15 @@
 
 This allows the code
 
-To use run from the terminal:
+Using [npm](http://npmjs.com):
 
+```sh
 npm install
+```
 
+Then [webpack](https://webpack.github.io/)
+```sh
 webpack
+```
 
-launch index.html
+Launch index.html
