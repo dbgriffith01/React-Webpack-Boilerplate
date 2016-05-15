@@ -1,16 +1,17 @@
 # Simple React Boilerplate using ES6 and Webpack
 
-This allows the code
+To get started follow the steps below:
 
-Using [npm](http://npmjs.com):
-
+* Clone the Repo:
+```sh
+git clone https://github.com/react.git
+```
+* Install the dependencies using [npm](http://npmjs.com):
 ```sh
 npm install
 ```
-
-Then [webpack](https://webpack.github.io/) to create bundle.js:
+* Run [webpack](https://webpack.github.io/) to create bundle.js:
 ```sh
 webpack
 ```
-
-Launch ./src/client/index.html in a browser to see the code in action
+* Launch the Application *./src/client/index.html*
